@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "CentroMax",
+        "direccion": "Blvd Aeropuerto 2518",
+        "foto": "../../Media/sucursal.jpeg",
+        "url": "http://centromax.com",
+        "gps_latitud": "566788",
+        "gps_longitud": "665433",
+        "horario_apertura": "08:00",
+        "horario_cierre": "21:00"
+    },
+    {
+        "nombre": "Altacia",
+        "direccion": "Blvd Aeropuerto 104",
+        "foto": "../../Media/sucursal.jpeg",
+        "url": "http://altacia.com",
+        "gps_latitud": "569888",
+        "gps_longitud": "665883",
+        "horario_apertura": "09:00",
+        "horario_cierre": "22:00"
+    }
+]

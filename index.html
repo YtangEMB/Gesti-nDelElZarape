@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Gestion ElZarape</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+        <link href="loginCSS.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+        <div class="line top">
+            <br><br>
+        </div>
+        
+        <div class="wrapper">
+            <form action="">
+                <img src="Media/Logo ElZarape SF.png" alt=""/>
+                <h1>Iniciar sesion</h1>
+                <div class="input-box">
+                    <input type="text" placeholder="Usuario">
+                    <i class='bx bxs-user'></i>
+                </div>
+                <div class="input-box">
+                    <input type="password" placeholder="Contraseña">
+                    <i class='bx bxs-lock-alt'></i>
+                </div>
+                
+                <button type="button" class="btn" onclick="redirectToPage()">Iniciar sesion</button>
+            </form>
+        </div>
+        
+            <div class="line bottom">
+                <br><br>
+            </div>
+        
+        <script>
+        function redirectToPage() {
+            window.location.href = "Main.html";
+        }
+    </script>
+    </body>
+</html>

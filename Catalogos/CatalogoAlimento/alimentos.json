@@ -1,0 +1,86 @@
+[
+    {
+    "nombre": "Tostadas",
+    "precio": "30",
+    "descripcion": "Antojito típico mexicano elaborado a partir de diferentes guisos sobre una tortilla de maíz crujiente o tostada.",
+    "foto": "../../Media/Platillos/Tostada.png",
+    "categoria": "Entrada"
+},
+{
+    "nombre": "Enchiladas Rojas",
+    "precio": "80",
+    "descripcion": "Es un típico plato mexicano que se elabora con tortilla de maíz, bañada en una salsa roja.",
+    "foto": "../../Media/Platillos/EnchiladasR.png",
+    "categoria": "Plato Fuerte"
+},
+{
+    "nombre": "Huevos Revueltos",
+    "precio": "30",
+    "descripcion": "Huevos de gallina ligeramente batidos y cocinados en una sartén con aceite o mantequilla hasta que cuaja.",
+    "foto": "../../Media/Platillos/Huevos.png",
+    "categoria": "Desayuno"
+},
+{
+    "nombre": "Sopes",
+    "precio": "90",
+    "descripcion": "Tortilla gruesa de maíz a la que se le embarra frijol refrito, para después cubrir con otros ingredientes.",
+    "foto": "../../Media/Platillos/Sopes.png",
+    "categoria": "Entrada"
+},
+{
+    "nombre": "Enchiladas Verdes",
+    "precio": "80",
+    "descripcion": "Es un típico plato mexicano que se elabora con tortilla de maíz, bañada en una salsa verde.",
+    "foto": "../../Media/Platillos/EnchiladasV.png",
+    "categoria": "Plato Fuerte"
+},
+{
+    "nombre": "Hotcakes",
+    "precio": "60",
+    "descripcion": "Pan plano redondo dulce, cuya masa base contiene usualmente leche, mantequilla, huevos, harina de trigo, levadura, azúcar, sal y esencia o saborizantes.",
+    "foto": "../../Media/Platillos/HotCakes.png",
+    "categoria": "Desayuno"
+},
+{
+    "nombre": "Quesadillas",
+    "precio": "35",
+    "descripcion": "Es un platillo mexicano que consiste en una tortilla de maíz, o también de trigo con queso y doblada por la mitad.",
+    "foto": "../../Media/Platillos/Quesadillas.png",
+    "categoria": "Entrada"
+},
+{
+    "nombre": "Chilaquiles",
+    "precio": "80",
+    "descripcion": "Tortillas de maíz, cortadas en tiras o triángulos, fritas y, posteriormente, cocidas en salsa de chile.",
+    "foto": "../../Media/Platillos/Chilaquiles.png",
+    "categoria": "Desayuno"
+},
+{
+    "nombre": "Torta",
+    "precio": "40",
+    "descripcion": "Bolillo relleno de jamón, queso, crema, chile y mayonesa.",
+    "foto": "../../Media/Platillos/Tortas.png",
+    "categoria": "Plato Fuerte"
+},
+{
+    "nombre": "Tamales",
+    "precio": "35",
+    "descripcion": "Hecho a base de maíz, relleno de diversos ingredientes, cocido en un paquete de hojas vegetales.",
+    "foto": "../../Media/Platillos/Tamal.png",
+    "categoria": "Plato Fuerte"
+},
+{
+    "nombre": "Menudo",
+    "precio": "80",
+    "descripcion": "Guiso caldoso elaborado con trozos de estómago de res, jitomate y chile guajillo.",
+    "foto": "../../Media/Platillos/Menudo.png",
+    "categoria": "Plato Fuerte"
+},
+{
+    "nombre": "Bistec",
+    "precio": "60",
+    "descripcion": "Carne de res picada en pequeñas partes y cocinada con cebolla, jitomate y chile.",
+    "foto": "../../Media/Platillos/Bistec.png",
+    "categoria": "Plato Fuerte"
+}
+]

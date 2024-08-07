@@ -1,0 +1,173 @@
+
+body {
+    background: url('Media/fondoC.jpg');
+    background-size: cover;
+    background-position: center;    
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.navbar {
+    background-color: #FA812F;
+    height: 80px;
+    margin: 28px;
+    border-radius: 16px;
+    padding: 0.5rem;
+}
+
+.container-fluid img {
+    width: 90px;
+    height: 70px;
+}
+
+.login-button {
+    background-color: #FAAF08;
+    color: #fff;
+    font-size: 14px;
+    padding: 8px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: 0.3s background-color;
+}
+
+.login-button:hover {
+    background-color: #6c757d;
+}
+
+.navbar-toggler {
+    border: none;
+    font-size: 1.25rem;
+}
+
+.navbar-toggler:focus, .btn-close:focus {
+    box-shadow: none;
+    outline: none;
+}
+
+.nav-link {
+    color: #6c757d;
+    font-weight: 500;
+    position: relative;
+}
+
+.offcanvas-body a  {
+    font-size: 22px;
+}
+
+.nav-link:hover, .nav-link.active {
+    color: black;
+}
+
+@media (min-width: 991px) {
+    .nav-link::before {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 0;
+        height: 2px;
+        background-color: #FAAF08;
+        visibility: hidden;
+        transition: 0.3s ease-in-out;
+    }
+
+    .nav-link:hover::before, .nav-link.active::before {
+        width: 100%;
+        visibility: visible;
+    }
+}
+
+.container {
+    width: 500px;
+    background: #FEF3E2;
+    border: 2px solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    color: black;
+    border-radius: 10px;
+    padding: 30px 40px;
+}
+
+.container-table {
+    margin: 100px;
+}
+
+.save {
+    background-color: #FAAF08;
+    color: #fff;
+    font-size: 14px;
+    padding: 8px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: 0.3s background-color;
+    border: none;
+}
+
+.save:hover {
+    background-color: #6c757d;
+}
+
+.cancel {
+    background-color: #6c757d;
+    color: #fff;
+    font-size: 14px;
+    padding: 8px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: 0.3s background-color;
+    border: none;
+}
+
+.cancel:hover {
+    background-color: #FAAF08;
+}
+
+.edit {
+    background-color: #FAAF08;
+    color: #fff;
+    font-size: 14px;
+    padding: 8px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    transition: 0.3s background-color;
+    border: none;
+}
+
+.edit:hover {
+    background-color: blue;
+}
+
+.delete {
+    background-color: #6c757d;
+    color: #fff;
+    font-size: 14px;
+    padding: 8px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    transition: 0.3s background-color;
+    border: none;
+}
+
+.delete:hover {
+    background-color: red;
+}
+
+.offcanvas-header {
+    background-color: #FA812F;
+}
+
+.offcanvas-body {
+    background-color: #FA812F;
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "nombre": "Chocomilk",
+    "precio": "15",
+    "descripcion": "Bebida elaborada a partir de cacao.",
+    "foto": "../../Media/Bebidas/Chocomilk.png",
+    "categoria": "Fría"
+},
+{
+    "nombre": "Jugo de Naranja",
+    "precio": "15",
+    "descripcion": "Jugo elaborado a partir de naranja natural.",
+    "foto": "../../Media/Bebidas/JugoNr.png",
+    "categoria": "Fría"
+},
+{
+    "nombre": "Agua",
+    "precio": "12",
+    "descripcion": "Botella de agua natural de 600ml.",
+    "foto": "../../Media/Bebidas/Agua.png",
+    "categoria": "Fría"
+},
+{
+    "nombre": "Michelada",
+    "precio": "30",
+    "descripcion": "Bebida con alcohol elaborada a partir de clamato, cerveza de su preferencia, chamoy, chile en polvo y limón.",
+    "foto": "../../Media/Bebidas/Michelada.png",
+    "categoria": "Fría"
+},
+{
+    "nombre": "Licuado",
+    "precio": "30",
+    "descripcion": "Licuados de Fresa, Cacao, Plátano y Mango.",
+    "foto": "../../Media/Bebidas/Licuado.png",
+    "categoria": "Fría"
+},
+{
+    "nombre": "Café Americano",
+    "precio": "25",
+    "descripcion": "Elaborado a partir de grano de café traído de Catemaco.",
+    "foto": "../../Media/Bebidas/CafeA.png",
+    "categoria": "Caliente"
+},
+{
+    "nombre": "Jugo Verde",
+    "precio": "15",
+    "descripcion": "Jugo elaborado a partir de naranja, zanahoria, betabel, apio, espinaca y nopal.",
+    "foto": "../../Media/Bebidas/JugoVr.png",
+    "categoria": "Fría"
+},
+{
+    "nombre": "Naranjada",
+    "precio": "20",
+    "descripcion": "Bebida gasificada de naranja de 600ml.",
+    "foto": "../../Media/Bebidas/Naranjada.png",
+    "categoria": "Refresco"
+},
+{
+    "nombre": "Fresca",
+    "precio": "20",
+    "descripcion": "Bebida gasificada de limón y toronja de 600ml.",
+    "foto": "../../Media/Bebidas/Fresca.png",
+    "categoria": "Refresco"
+},
+{
+    "nombre": "Coca Cola",
+    "precio": "20",
+    "descripcion": "Bebida gasificada de 600ml.",
+    "foto": "../../Media/Bebidas/Coca.png",
+    "categoria": "Refresco"
+},
+{
+    "nombre": "Limonada",
+    "precio": "15",
+    "descripcion": "Bebida elaborada a partir de jugo de limón y azúcar.",
+    "foto": "../../Media/Bebidas/Limonada.png",
+    "categoria": "Fría"
+},
+{
+    "nombre": "Café de olla",
+    "precio": "25",
+    "descripcion": "Elaborado en una olla de barro con especias de Yucatán y grano de café de Catemaco.",
+    "foto": "../../Media/Bebidas/CafeOL.png",
+    "categoria": "Caliente"
+}
+]

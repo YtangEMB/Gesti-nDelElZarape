@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Menú de Navegación</title>
+        <link href="MainCSS.css" rel="stylesheet" type="text/css"/>
+        <link href="style/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg fixed-top">
+            <div class="container-fluid">
+                <img src="Media/Logo ElZarape SF.png" alt=""/>
+                <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                    <div class="offcanvas-header">
+                        <img class="offcanvas-title" src="Media/Logo ElZarape SF.png" alt=""/>
+                        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                    </div>
+                    <div class="offcanvas-body">
+                        <ul class="navbar-nav justify-content-center flex-grow-1 pe-3">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link  ex-lg-2" href="Catalogos/Sucursal/view_Sucursal.html" >Sucursales</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link  ex-lg-2" href="Catalogos/Usuario/view_Usuario.html">Usuarios</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link  ex-lg-2" href="Catalogos/CatalogoAlimento/view_Alimento.html">Alimentos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link  ex-lg-2" href="Catalogos/CatalogoBebida/view_Bebida.html">Bebidas</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link  ex-lg-2" href="Catalogos/CatalogoCombo/view_Combo.html">Combos</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <a href="index.html" class="login-button">Cerrar sesion</a>
+                <button class="navbar-toggler pe-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+        </nav>
+        
+        <div class="image">
+            <img src="Media/Logo ElZarape SF.png" alt=""/>
+        </div>
+        
+        <script src="style/js/bootstrap.bundle.js" type="text/javascript"></script>
+        <script src="Java/main.js" type="text/javascript"></script>
+        <script src="https://kit.fontawesome.com/2a1d3ed1a9.js" crossorigin="anonymous"></script>
+    </body>
+</html>

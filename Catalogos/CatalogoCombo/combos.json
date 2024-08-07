@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "Combo Sol Azteca",
+        "platillos": ["Bolillo relleno de jamón, queso, crema, chile y mayonesa"],
+        "bebidas": ["Coca Cola"],
+        "foto": "../../Media/Combos/combo1.png",
+        "precio": "55",
+        "descripcion": "Bolillo relleno de jamón, queso, crema, chile y mayonesa, acompañado de una Coca Cola."
+    },
+    {
+        "nombre": "Combo Espíritu Fiesta",
+        "platillos": ["Pan plano redondo dulce con leche, mantequilla, huevos, harina de trigo, levadura, azúcar, sal y esencia o saborizantes"],
+        "bebidas": ["Chocomilk"],
+        "foto": "../../Media/Combos/combo2.png",
+        "precio": "90",
+        "descripcion": "Pan plano redondo dulce con leche, mantequilla, huevos, harina de trigo, levadura, azúcar, sal y esencia o saborizantes, acompañado de 2 Chocomilk."
+    },
+    {
+        "nombre": "Combo Raíces Mexicanas",
+        "platillos": ["Tamales hechos a base de maíz, rellenos de diversos ingredientes"],
+        "bebidas": ["Jugo de Naranja"],
+        "foto": "../../Media/Combos/combo3.png",
+        "precio": "40",
+        "descripcion": "Tamales hechos a base de maíz, rellenos de diversos ingredientes, acompañado de un jugo de naranja."
+    },
+    {
+        "nombre": "Combo Alegría Azteca",
+        "platillos": ["Tortilla gruesa de maíz con frijol refrito, y otros ingredientes"],
+        "bebidas": ["Chocomilk"],
+        "foto": "../../Media/Combos/combo4.png",
+        "precio": "100",
+        "descripcion": "Tortilla gruesa de maíz con frijol refrito, y otros ingredientes, acompañado de 1 Chocomilk."
+    },
+    {
+        "nombre": "Combo Sabores del Zócalo",
+        "platillos": ["Tortilla de maíz bañada en salsa verde"],
+        "bebidas": ["Café"],
+        "foto": "../../Media/Combos/combo5.png",
+        "precio": "90",
+        "descripcion": "Tortilla de maíz bañada en salsa verde, acompañado de 1 café."
+    },
+    {
+        "nombre": "Hotcakes y café",
+        "platillos": ["Hotcakes"],
+        "bebidas": ["Café"],
+        "foto": "../../Media/Combos/combo6.png",
+        "precio": "85",
+        "descripcion": "Deliciosos hotcakes acompañados de un rico café."
+    },
+    {
+        "nombre": "Combo Sabor Ranchero",
+        "platillos": ["Huevos fritos"],
+        "bebidas": ["Chocomilk"],
+        "foto": "../../Media/Combos/combo7.png",
+        "precio": "100",
+        "descripcion": "Unos ricos huevos fritos acompañados de un chocomilk para desayunar."
+    },
+    {
+        "nombre": "Combo Delicias del Pueblo",
+        "platillos": ["Enchiladas verdes"],
+        "bebidas": ["Coca Cola"],
+        "foto": "../../Media/Combos/combo8.png",
+        "precio": "90",
+        "descripcion": "Unas ricas enchiladas verdes acompañadas de una Coca Cola."
+    },
+    {
+        "nombre": "Hotcakes y Chocomilk",
+        "platillos": ["Hotcakes"],
+        "bebidas": ["Leche"],
+        "foto": "../../Media/Combos/combo9.png",
+        "precio": "85",
+        "descripcion": "Unos ricos hotcakes acompañados de leche para desayunar."
+    }
+]

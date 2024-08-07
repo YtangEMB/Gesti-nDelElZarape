@@ -1,0 +1,22 @@
+[
+    {
+        "id": "user1",
+        "nombre": "Juan",
+        "apellido_paterno": "Pérez",
+        "apellido_materno": "García",
+        "telefono": "555-1234",
+        "ciudad": "Ciudad de México",
+        "estado": "CDMX",
+        "domicilio": "Calle Falsa 123"
+    },
+    {
+        "id": "user2",
+        "nombre": "Ana",
+        "apellido_paterno": "López",
+        "apellido_materno": "Martínez",
+        "telefono": "555-5678",
+        "ciudad": "Monterrey",
+        "estado": "Nuevo León",
+        "domicilio": "Avenida Siempre Viva 742"
+    }
+]
