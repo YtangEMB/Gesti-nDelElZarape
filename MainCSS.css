@@ -1,8 +1,10 @@
 
 body {
     background: url('Media/fondoC.jpg');
-    background-size: auto;
-    background-position: center;    
+    width: 100%;
+    background-position: center;
+    height: 100%;
+    position: fixed;
 }
 
 .navbar {
